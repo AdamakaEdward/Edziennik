@@ -10,8 +10,5 @@ namespace WebApplication1.Data
             : base(options)
         {
         }
-
-        // Dodaj swoje DbSety, jeśli są potrzebne
-        // public DbSet<Subject> Subjects { get; set; }
     }
 }
